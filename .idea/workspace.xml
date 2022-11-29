@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f32272d4-1aa3-486a-973d-0ae0181dd1a2" name="Changes" comment="chap3">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/chap4/main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/chap3/main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/chap3/main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
       </list>
@@ -57,9 +58,16 @@
       <recent name="chap2" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt (1)">
+  <component name="RunManager" selected="Kotlin.MainKt (2)">
     <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chap3.MainKt" />
+      <module name="kotlin-action.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chap4.MainKt" />
       <module name="kotlin-action.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,6 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt (2)" />
         <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt" />
       </list>
@@ -89,7 +98,7 @@
       <updated>1669462062784</updated>
       <workItem from="1669462064551" duration="993000" />
       <workItem from="1669637497705" duration="1909000" />
-      <workItem from="1669725225390" duration="4564000" />
+      <workItem from="1669725225390" duration="6238000" />
     </task>
     <task id="LOCAL-00001" summary="kotlin study init">
       <created>1669462406950</created>
@@ -105,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669726495911</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="chap3">
+      <created>1669730385211</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669730385211</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
