@@ -4,9 +4,9 @@ import java.lang.IllegalArgumentException
 
 interface Expr
 class Num(val value: Int) : Expr
-class Sum(val left: Int, val right: Int) : Expr
-fun eval (e: Int) : Int {
-    if (e is Num){
+class Sum(val left: Expr, val right: Expr) : Expr
+fun eval(e: Expr): Int {
+    if (e is Num) {
         e.value
     }
 
